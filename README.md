@@ -70,8 +70,8 @@ $ npx knex seed:run
 $ npm run dev
 
 // usuário adm para fazer os testes
-email: admin@teste.com
-senha: 123456789
+$ email: admin@email.com
+$ password: 090807
 
 // rodar o front-end
 // instalar todas as dependências
