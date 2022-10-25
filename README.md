@@ -79,3 +79,6 @@ npm install
 
 // rodar o front da aplicação
 npm run dev
+
+Link do Deploy aplicação completa:
+https://foodexplorerfinal.netlify.app/
